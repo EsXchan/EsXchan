@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @EsXchan
-- 👀 I’m interested in Offensive Security and Pentesting
-- 🏵️ I'm a rookie Cybersecurity analyst looking for a good opportunity for mentorship 
+- 👀 I’m a Junior Penetration Tester
+- 🏵️ I'm a Cybersecurity Analyst
 - 🌱 I’m currently making research about DevOps
 - 💞️ I’m looking to collaborate on remote pentesting 
-- 📫 How to reach me apeh.esther@briechifc.com
+- 📫 How to reach me maressie96@gmail.com
 
 <!---
 EsXchan/EsXchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
